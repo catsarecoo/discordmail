@@ -1,5 +1,5 @@
 # Mod Mail for Discord
-This is an open source discord bot made by kenng and improved upon suggestions by the users!
+This is an open source discord bot made by catsarecoo and improved upon suggestions by the users!
 
 ## Hosting on Heroku
 ### What is Heroku?
@@ -23,7 +23,7 @@ You need to make a Heroku account. Make one at [Heroku's Website](https://heroku
 
 [*Here's a GIF to explain the first 5 steps*](https://i.imgur.com/Y2ouW7I.gif)
 
-6. Click this button: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+6. Click this button: [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/catsarecoo/discordmail)
 7. Input some random name for your app, the heroku app name is not important.
 8. Input your bot token from step 5 into the `TOKEN` field.
 7. Put the [ID of your Server](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) into the `GUILD_ID` field.
